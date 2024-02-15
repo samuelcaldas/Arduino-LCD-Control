@@ -1,5 +1,5 @@
 /**
- * @file Aula Prática 3.ino
+ * @file Aula_Pratica_3.ino
  * @brief Aula Prática 3 - LCD 16x2
  * @version 1.0
  * @date 2023-06-04
